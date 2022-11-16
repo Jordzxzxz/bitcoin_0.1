@@ -5,7 +5,7 @@ Following & building from 'Programming Bitcoin' book by [Jimmy Song](https://git
 
 #### Parts
 - [x] [Finite Fields](https://github.com/Jordzxzxz/bitcoin_0.1/tree/main/FiniteFields)
-- [ ] Elliptic Curves
+- [x] [Elliptic Curves](https://github.com/Jordzxzxz/bitcoin_0.1/tree/main/EllipticCurves)
 - [ ] Elliptic Curve Cryptography
 - [ ] Serialization
 - [ ] Transactions
