@@ -1,8 +1,8 @@
 # bitcoin_0.1
 ## Programming Bitcoin (Python 3)
 
-Programming the essential core elements & libraries of the Bitcoin protocol using Python. 
-Following & building from 'Programming Bitcoin' book by [Jimmy Song](https://github.com/jimmysong).
+Building the essential core elements, mathematics & libraries of the Bitcoin protocol using Python. 
+Following the 'Programming Bitcoin' book by [Jimmy Song](https://github.com/jimmysong).
 
 #### Parts
 - [x] [Finite Fields](https://github.com/Jordzxzxz/bitcoin_0.1/tree/main/FiniteFields)
