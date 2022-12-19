@@ -9,7 +9,8 @@ Following the 'Programming Bitcoin' book by [Jimmy Song](https://github.com/jimm
 &nbsp; _Finite field calculus & alegbra_
 - [x] [Elliptic Curves](https://github.com/Jordzxzxz/bitcoin_0.1/tree/main/EllipticCurves)
 &nbsp; _Elliptic curve geometry & point addition_
-- [ ] Elliptic Curve Cryptography
+- [x] [Elliptic Curve Cryptography](https://github.com/Jordzxzxz/bitcoin_0.1/tree/main/EllipticCryptography)
+&nbsp; _Elliptic curve cryptography for signing & verification_
 - [ ] Serialization
 - [ ] Transactions
 - [ ] Script
